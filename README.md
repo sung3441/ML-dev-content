@@ -1,7 +1,7 @@
 # 언어
 
 ### Java
-- [[Java] ConcurrentHashMap 이란 무엇일까요?](https://devlog-wjdrbs96.tistory.com/269)
+- [[Java] ConcurrentHashMap 이란 무엇일까?](https://devlog-wjdrbs96.tistory.com/269)
 
 ### JS
 - [우아한 자바스크립트 개발](https://speakerdeck.com/nigayo/uahan-jabaseukeuribteu-gaebal)
