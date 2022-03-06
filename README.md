@@ -33,7 +33,7 @@
 ### Test Code - Back End (Spring & Spring Boot)
 - [[JUnit] 로그단계 낮추는 방법](https://artbooks.tistory.com/67)
 - [JUnit5 완벽 가이드](https://donghyeon.dev/junit/2021/04/11/JUnit5-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C/)
-- [AssertJ가 JUnit의 assertThat 보다 편리한 이유 (youtube)](https://www.youtube.com/watch?v=zLx_fI24UXM)
+- [단위 테스트 사용 방법: JUnit 참조 가이드](https://brunch.co.kr/@pubjinson/16)
 
 ### Test Code - Front End (Vue.js)
 - [바닥부터 시작하는 Vue 컴포넌트 테스트](https://tech.kakao.com/2019/11/27/kakao-business-vue-component-test/)
@@ -48,20 +48,15 @@
 - [REST API 제대로 알고 사용하기](https://meetup.toast.com/posts/92)
 - [개발 초보를 위한 RESTful API 설계 가이드](https://velog.io/@couchcoding/%EA%B0%9C%EB%B0%9C-%EC%B4%88%EB%B3%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-RESTful-API-%EC%84%A4%EA%B3%84-%EA%B0%80%EC%9D%B4%EB%93%9C)
 
+### Git & Git Hub
+- [좋은 git 커밋 메시지를 작성하기 위한 7가지 약속](https://meetup.toast.com/posts/106)
+- [Github 마크다운 작성 시 이미지 업로드 팁](https://ahribori.com/article/5a03bcfd6c9eef13d882e29a)
+- [Git 교육 자료](https://johngrib.github.io/wiki/git-tutorial/)
+
 ### Web
 - [프론트엔드 개발자라면 알고 있어야 할 브라우저의 동작 과정](https://wormwlrm.github.io/2021/03/27/How-browsers-work.html)
 
-
-### Network
-
-
------------------------------------------------------
-
-
-# Error
-
+### 읽을 거리
+- [인프런 2022년 1월 100% 할인 이벤트 장애 부검](https://tech.inflab.com/202201-event-postmortem/)
 
 -----------------------------------------------------
-
-
-# 취업
