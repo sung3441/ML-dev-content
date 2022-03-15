@@ -63,4 +63,7 @@
 ### 읽을 거리
 - [인프런 2022년 1월 100% 할인 이벤트 장애 부검](https://tech.inflab.com/202201-event-postmortem/)
 
+### Error
+- [IntelliJ 에서 내장 WAS 작동하지 않을 때](https://okky.kr/article/368633)
+
 -----------------------------------------------------
