@@ -18,6 +18,8 @@
 - [[Java] @Transactional Annotation 알고 쓰자](https://velog.io/@kdhyo/JavaTransactional-Annotation-%EC%95%8C%EA%B3%A0-%EC%93%B0%EC%9E%90-26her30h)
 - [생성자 주입을 @Autowired를 사용하는 필드 주입보다 권장하는 이유](https://madplay.github.io/post/why-constructor-injection-is-better-than-field-injection)\
 - [IoC, DI란 무엇일까](https://biggwang.github.io/2019/08/31/Spring/IoC,%20DI%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C/)
+- [초보가 이해하는 스프링 시큐리티[okky]](https://okky.kr/article/382738)
+- [spring security 파헤치기 (구조, 인증과정, 설정, 핸들러 및 암호화 예제)](https://sjh836.tistory.com/165)
 
 ### Vue js
 - [Vue.js 입문자가 흔히 저지르는 문법 실수 총정리](https://joshua1988.github.io/web-development/vuejs/common-error-cases/)
